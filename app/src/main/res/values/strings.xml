@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppViews</string>
+    <string name="insira_o_primeiro_valor">Insira o primeiro valor</string>
+    <string name="insira_o_segundo_valor">Insira o segundo valor</string>
+    <string name="calculadora">CALCULADORA</string>
+    <string name="somar">SOMAR</string>
+    <string name="resultado">Resultado:</string>
+    <string name="resultado_resp">resultado</string>
+</resources>
